@@ -1,0 +1,1 @@
+| 2026-05-05 05:45:23 UTC | BLOCKED | HOOK | Credential in file write detected | full-gate | BLOCKED | — | hook | Content appears to contain secrets/credentials being written to C:\Users\no\Desktop\Scripting\web projects\listening to\.env.example. |
